@@ -40,18 +40,15 @@ The application uses a machine learning model to classify garbage into categorie
 
 
 ## <b>Project structure</b>
+We didn't add the dataset to the repository because of it's size. The dataset is available on Kaggle and should be put in the data/raw folder so that it match the following structure.
 
 ```plaintext
 which-bin/
-├── api/
-│   └── v1/                 # API version folder (future API versions can go here)
 ├── app/
 │   ├── models/             # Folder for saved ML models
-│   ├── services/           # Services used by the app (e.g., ML services)
-│   ├── utils/              # Utility functions
 │   └── main.py             # FastAPI main app with endpoints and model inference
 ├── data/
-│   ├── augmented_images/   # Folder for storing augmented images for training
+│   ├── augmented_images/   # Folder for storing augmented images for training. No need to create it. It'll be done automatically.
 │   ├── raw/                # Raw data folder
 │   │   └── garbage-dataset/
 │   │       ├── battery/
@@ -68,14 +65,13 @@ which-bin/
 │   └── city_bins.json      # JSON file with sorting rules for each city
 ├── frontend/
 │   ├── assets/             # Folder for static assets like images
-│   ├── src/                # Source folder for additional front-end code
 │   ├── index.html          # Main HTML file for the front end
 │   ├── script.js           # JavaScript for front-end interaction
 │   └── styles.css          # CSS file for styling
 ├── mlflows/
 │   ├── mlartifacts/        # MLflow artifacts
 │   └── mlruns/             # Folder for MLflow runs
-├── pipelines/              # Folder for data pipelines and training workflows
+├── scripts/                # Folder for pipelines and training workflows
 ├── .gitattributes          # Git attributes for managing file types
 ├── Dockerfile              # Dockerfile for containerizing the app
 ├── requirements.txt        # Python dependencies
