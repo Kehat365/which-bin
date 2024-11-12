@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pillow
+mlflow
+pydantic
+scikit-learn
+tensorflow
+opencv-python-headless
+python-multipart

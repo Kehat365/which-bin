@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>which bin?</title>
+    <link rel="stylesheet" href="/static/styles.css">
+</head>
+<body>
+    <div class="container">
+        <!-- Top Section -->
+        <div class="top-section">
+            <button class="model-change-button" onclick="toggleModelDropdown()">Change model</button>
+                <!-- Model Selection Dropdown -->
+            <div id="model-dropdown" class="model-dropdown" style="display: none;">
+                <label for="model-select">Select Model:</label>
+                <select id="model-select" onchange="changeModel()">
+                    <option value="basemodel.pkl">0. Base model</option>
+                    <option value="model1.pkl">1. Hyperoptimisation with basic features</option>
+                    <option value="model2.pkl">2. Hyperoptimisation with engineered features</option>
+                    <option value="model3.pkl">3. Hyperoptimisation with deep learning features</option>
+                    <option value="model4.pkl">4. Hyperoptimisation with all features</option>
+                </select>
+            </div>
+            <div class="logo">
+                <img src="/static/assets/logo.png" alt="Which Bin? Logo">
+            </div>
+        </div>
+
+        <!-- Horizontal Line with Input Bar -->
+        <div class="input-bar">
+            <div class="input-group">         
+                <select id="postal-code">
+                    <option value="" disabled selected>Select a city</option>
+                    <option value="Angers">Angers</option>
+                    <option value="Biarritz">Biarritz</option>
+                    <option value="Bordeaux">Bordeaux</option>
+                    <option value="Brest">Brest</option>
+                    <option value="Clermont-Ferrand">Clermont-Ferrand</option>
+                    <option value="Dijon">Dijon</option>
+                    <option value="Grenoble">Grenoble</option>  
+                    <option value="Le Havre">Le Havre</option>
+                    <option value="Le Mans">Le Mans</option>
+                    <option value="Lille">Lille</option>
+                    <option value="Limoges">Limoges</option>
+                    <option value="Lyon">Lyon</option>
+                    <option value="Marseille">Marseille</option>
+                    <option value="Montpellier">Montpellier</option>
+                    <option value="Nancy">Nancy</option>
+                    <option value="Nantes">Nantes</option>
+                    <option value="Nice">Nice</option>
+                    <option value="Orléans">Orléans</option>
+                    <option value="Paris">Paris</option>
+                    <option value="Reims">Reims</option>
+                    <option value="Rennes">Rennes</option>
+                    <option value="Rouen">Rouen</option>
+                    <option value="Saint-Étienne">Saint-Étienne</option>
+                    <option value="Strasbourg">Strasbourg</option>
+                    <option value="Toulouse">Toulouse</option>
+                    <option value="Tours">Tours</option>    
+                </select>
+            </div>
+            <div class="input-group">
+                <div class="custom-file-upload" onclick="document.getElementById('image-upload').click()">
+                    <span>Choose an image</span>
+                    <input type="file" id="image-upload" accept="image/*" onchange="previewImage(this)">
+                </div>
+            </div>
+            <button class="search-button"><b>which bin?</b></button>
+        </div>
+
+        <script src="/static/script.js"></script>
+
+        <!-- Bottom Section -->
+        <div class="bottom-section">
+            <div class="results-preview-container">
+                <img id="image-preview" src="" alt="Image Preview" style="display: none;">
+                <div id="results" class="results"></div>
+            </div>
+            <div class="info-card">
+                <h3>Keep it clean and dry</h3>
+                <p>Before recycling, empty and rinse containers. Food residue can contaminate the recycling process.</p>
+            </div>
+            <div class="info-card">
+                <h3>Remove non-recyclables</h3>
+                <p>Remove caps, lids, and any non-recyclable parts from containers. Labels are okay, but plastic films or foil should be removed.</p>
+            </div>
+            <div class="info-card">
+                <h3>Avoid bagged recycling</h3>
+                <p>Do not place recyclables in plastic bags; they often can't be processed and may end up in the trash.</p>
+            </div>
+        </div>
+        <footer class="footer">
+            <p>Made by Kéhat Tokannou and Noé Gerwig</p>
+        </footer>
+    </div>
+
+</body>
+</html>
