@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/261048915093436133/6c4748db32d54de097e97a4cf70cad2e/artifacts
+end_time: 1731312160719
+entry_point_name: ''
+experiment_id: '261048915093436133'
+lifecycle_stage: active
+run_id: 6c4748db32d54de097e97a4cf70cad2e
+run_name: magnificent-sow-821
+run_uuid: 6c4748db32d54de097e97a4cf70cad2e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731310500257
+status: 3
+tags: []
+user_id: kehat

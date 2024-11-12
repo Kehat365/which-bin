@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/261048915093436133/f8b332155eea494a8cf73512d1b62672/artifacts
+end_time: 1731313863098
+entry_point_name: ''
+experiment_id: '261048915093436133'
+lifecycle_stage: active
+run_id: f8b332155eea494a8cf73512d1b62672
+run_name: smiling-snail-475
+run_uuid: f8b332155eea494a8cf73512d1b62672
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731312160773
+status: 3
+tags: []
+user_id: kehat

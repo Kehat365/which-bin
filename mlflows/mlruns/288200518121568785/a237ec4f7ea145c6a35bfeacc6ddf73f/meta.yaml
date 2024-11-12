@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/288200518121568785/a237ec4f7ea145c6a35bfeacc6ddf73f/artifacts
+end_time: 1731374927987
+entry_point_name: ''
+experiment_id: '288200518121568785'
+lifecycle_stage: active
+run_id: a237ec4f7ea145c6a35bfeacc6ddf73f
+run_name: upbeat-ram-708
+run_uuid: a237ec4f7ea145c6a35bfeacc6ddf73f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731373122515
+status: 3
+tags: []
+user_id: kehat

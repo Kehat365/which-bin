@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/261048915093436133/cc67d835445b4b9d9ceeddf2b72e730b/artifacts
+end_time: 1731310462988
+entry_point_name: ''
+experiment_id: '261048915093436133'
+lifecycle_stage: active
+run_id: cc67d835445b4b9d9ceeddf2b72e730b
+run_name: bouncy-midge-512
+run_uuid: cc67d835445b4b9d9ceeddf2b72e730b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731306629224
+status: 4
+tags: []
+user_id: kehat

@@ -1,0 +1,1 @@
+[('resize', FunctionTransformer(func=<function resize_images at 0x0000022D10294AE0>)), ('flatten', FunctionTransformer(func=<function objective_with_mlflow.<locals>.<lambda> at 0x0000022D0879FA60>)), ('classifier', RandomForestClassifier(max_depth=12, n_estimators=145, n_jobs=-1))]

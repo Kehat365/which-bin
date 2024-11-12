@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/880963317123514935
+creation_time: 1731300390956
+experiment_id: '880963317123514935'
+last_update_time: 1731300390956
+lifecycle_stage: active
+name: hyperopt_baseFE

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/880963317123514935/d967a29ee1b744e7a9240e3fb885ad4e/artifacts
+end_time: 1731304742350
+entry_point_name: ''
+experiment_id: '880963317123514935'
+lifecycle_stage: active
+run_id: d967a29ee1b744e7a9240e3fb885ad4e
+run_name: nosy-frog-466
+run_uuid: d967a29ee1b744e7a9240e3fb885ad4e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731304689949
+status: 3
+tags: []
+user_id: kehat

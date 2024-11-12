@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/880963317123514935/09d7e57d03cc48bd90bbc15c910208a6/artifacts
+end_time: 1731302404735
+entry_point_name: ''
+experiment_id: '880963317123514935'
+lifecycle_stage: active
+run_id: 09d7e57d03cc48bd90bbc15c910208a6
+run_name: upset-skink-147
+run_uuid: 09d7e57d03cc48bd90bbc15c910208a6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731300790774
+status: 3
+tags: []
+user_id: kehat

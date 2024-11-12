@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/261048915093436133/328b21c979f444b7ad9d856f593e9f2b/artifacts
+end_time: 1731336933145
+entry_point_name: ''
+experiment_id: '261048915093436133'
+lifecycle_stage: active
+run_id: 328b21c979f444b7ad9d856f593e9f2b
+run_name: intrigued-sloth-52
+run_uuid: 328b21c979f444b7ad9d856f593e9f2b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731335922325
+status: 3
+tags: []
+user_id: kehat

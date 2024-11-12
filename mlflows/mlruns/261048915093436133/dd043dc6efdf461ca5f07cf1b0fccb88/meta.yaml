@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/261048915093436133/dd043dc6efdf461ca5f07cf1b0fccb88/artifacts
+end_time: 1731320954108
+entry_point_name: ''
+experiment_id: '261048915093436133'
+lifecycle_stage: active
+run_id: dd043dc6efdf461ca5f07cf1b0fccb88
+run_name: monumental-grub-56
+run_uuid: dd043dc6efdf461ca5f07cf1b0fccb88
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731319064141
+status: 3
+tags: []
+user_id: kehat

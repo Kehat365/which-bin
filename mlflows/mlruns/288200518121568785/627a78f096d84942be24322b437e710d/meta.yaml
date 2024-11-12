@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/288200518121568785/627a78f096d84942be24322b437e710d/artifacts
+end_time: 1731365611111
+entry_point_name: ''
+experiment_id: '288200518121568785'
+lifecycle_stage: active
+run_id: 627a78f096d84942be24322b437e710d
+run_name: skillful-horse-876
+run_uuid: 627a78f096d84942be24322b437e710d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731363828278
+status: 3
+tags: []
+user_id: kehat

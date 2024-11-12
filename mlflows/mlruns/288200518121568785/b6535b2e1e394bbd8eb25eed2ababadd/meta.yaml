@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/288200518121568785/b6535b2e1e394bbd8eb25eed2ababadd/artifacts
+end_time: 1731376736189
+entry_point_name: ''
+experiment_id: '288200518121568785'
+lifecycle_stage: active
+run_id: b6535b2e1e394bbd8eb25eed2ababadd
+run_name: wistful-calf-742
+run_uuid: b6535b2e1e394bbd8eb25eed2ababadd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731374928043
+status: 3
+tags: []
+user_id: kehat

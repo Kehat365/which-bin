@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/880963317123514935/e5babfddf02b4fd58df91c19d4c32f87/artifacts
+end_time: 1731304775607
+entry_point_name: ''
+experiment_id: '880963317123514935'
+lifecycle_stage: active
+run_id: e5babfddf02b4fd58df91c19d4c32f87
+run_name: capricious-hound-36
+run_uuid: e5babfddf02b4fd58df91c19d4c32f87
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731304742386
+status: 3
+tags: []
+user_id: kehat

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/882942637139866631/dd97b741f0954dd1be45b6eb3faf1268/artifacts
+end_time: 1731344407372
+entry_point_name: ''
+experiment_id: '882942637139866631'
+lifecycle_stage: active
+run_id: dd97b741f0954dd1be45b6eb3faf1268
+run_name: polite-zebra-206
+run_uuid: dd97b741f0954dd1be45b6eb3faf1268
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731342883913
+status: 3
+tags: []
+user_id: kehat

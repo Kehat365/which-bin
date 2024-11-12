@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/882942637139866631/95bf280608804283a57a4c18d20863be/artifacts
+end_time: 1731352124968
+entry_point_name: ''
+experiment_id: '882942637139866631'
+lifecycle_stage: active
+run_id: 95bf280608804283a57a4c18d20863be
+run_name: whimsical-skink-471
+run_uuid: 95bf280608804283a57a4c18d20863be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731350589555
+status: 3
+tags: []
+user_id: kehat

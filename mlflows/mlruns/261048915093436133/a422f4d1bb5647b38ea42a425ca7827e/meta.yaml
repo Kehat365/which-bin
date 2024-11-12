@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/261048915093436133/a422f4d1bb5647b38ea42a425ca7827e/artifacts
+end_time: 1731328617371
+entry_point_name: ''
+experiment_id: '261048915093436133'
+lifecycle_stage: active
+run_id: a422f4d1bb5647b38ea42a425ca7827e
+run_name: intrigued-whale-537
+run_uuid: a422f4d1bb5647b38ea42a425ca7827e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731327603507
+status: 3
+tags: []
+user_id: kehat

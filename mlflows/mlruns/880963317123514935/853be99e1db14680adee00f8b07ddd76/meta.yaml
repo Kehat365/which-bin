@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/880963317123514935/853be99e1db14680adee00f8b07ddd76/artifacts
+end_time: 1731302690554
+entry_point_name: ''
+experiment_id: '880963317123514935'
+lifecycle_stage: active
+run_id: 853be99e1db14680adee00f8b07ddd76
+run_name: whimsical-bat-881
+run_uuid: 853be99e1db14680adee00f8b07ddd76
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731302635819
+status: 3
+tags: []
+user_id: kehat

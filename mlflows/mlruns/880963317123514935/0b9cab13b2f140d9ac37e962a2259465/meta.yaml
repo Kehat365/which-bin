@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/880963317123514935/0b9cab13b2f140d9ac37e962a2259465/artifacts
+end_time: 1731300709061
+entry_point_name: ''
+experiment_id: '880963317123514935'
+lifecycle_stage: active
+run_id: 0b9cab13b2f140d9ac37e962a2259465
+run_name: overjoyed-sloth-175
+run_uuid: 0b9cab13b2f140d9ac37e962a2259465
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731300391017
+status: 3
+tags: []
+user_id: kehat

@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/560187437505378705
+creation_time: 1731384330624
+experiment_id: '560187437505378705'
+last_update_time: 1731384330624
+lifecycle_stage: active
+name: full_trainingset

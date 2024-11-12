@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/288200518121568785/41054e352ccf4de4bbc00d268b4756aa/artifacts
+end_time: 1731367376944
+entry_point_name: ''
+experiment_id: '288200518121568785'
+lifecycle_stage: active
+run_id: 41054e352ccf4de4bbc00d268b4756aa
+run_name: bouncy-moose-114
+run_uuid: 41054e352ccf4de4bbc00d268b4756aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731365611163
+status: 3
+tags: []
+user_id: kehat

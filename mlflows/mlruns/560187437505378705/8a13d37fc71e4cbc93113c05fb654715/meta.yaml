@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/560187437505378705/8a13d37fc71e4cbc93113c05fb654715/artifacts
+end_time: 1731385830772
+entry_point_name: ''
+experiment_id: '560187437505378705'
+lifecycle_stage: active
+run_id: 8a13d37fc71e4cbc93113c05fb654715
+run_name: abrasive-mole-551
+run_uuid: 8a13d37fc71e4cbc93113c05fb654715
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731385130837
+status: 3
+tags: []
+user_id: kehat

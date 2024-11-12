@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/261048915093436133/c5a2e69919d44af5ab0d1acb647be3f5/artifacts
+end_time: 1731315310823
+entry_point_name: ''
+experiment_id: '261048915093436133'
+lifecycle_stage: active
+run_id: c5a2e69919d44af5ab0d1acb647be3f5
+run_name: unleashed-roo-910
+run_uuid: c5a2e69919d44af5ab0d1acb647be3f5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731313863154
+status: 3
+tags: []
+user_id: kehat

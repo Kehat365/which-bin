@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/880963317123514935/42e3e314f06143839f2bfd5bc00ca5d3/artifacts
+end_time: 1731304443939
+entry_point_name: ''
+experiment_id: '880963317123514935'
+lifecycle_stage: active
+run_id: 42e3e314f06143839f2bfd5bc00ca5d3
+run_name: likeable-stork-69
+run_uuid: 42e3e314f06143839f2bfd5bc00ca5d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731304231097
+status: 3
+tags: []
+user_id: kehat

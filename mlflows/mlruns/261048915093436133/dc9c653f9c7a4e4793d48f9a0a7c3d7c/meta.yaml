@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/261048915093436133/dc9c653f9c7a4e4793d48f9a0a7c3d7c/artifacts
+end_time: 1731316378124
+entry_point_name: ''
+experiment_id: '261048915093436133'
+lifecycle_stage: active
+run_id: dc9c653f9c7a4e4793d48f9a0a7c3d7c
+run_name: big-whale-540
+run_uuid: dc9c653f9c7a4e4793d48f9a0a7c3d7c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731315310864
+status: 3
+tags: []
+user_id: kehat

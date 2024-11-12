@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/261048915093436133/ade694eb46e74316b2a9567b73391164/artifacts
+end_time: 1731327603466
+entry_point_name: ''
+experiment_id: '261048915093436133'
+lifecycle_stage: active
+run_id: ade694eb46e74316b2a9567b73391164
+run_name: brawny-mole-69
+run_uuid: ade694eb46e74316b2a9567b73391164
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731321956115
+status: 3
+tags: []
+user_id: kehat

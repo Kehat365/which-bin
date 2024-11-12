@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/880963317123514935/e8ec6cea43844276a8c099bacd24ec8f/artifacts
+end_time: 1731304824792
+entry_point_name: ''
+experiment_id: '880963317123514935'
+lifecycle_stage: active
+run_id: e8ec6cea43844276a8c099bacd24ec8f
+run_name: gentle-hog-128
+run_uuid: e8ec6cea43844276a8c099bacd24ec8f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731304775660
+status: 3
+tags: []
+user_id: kehat

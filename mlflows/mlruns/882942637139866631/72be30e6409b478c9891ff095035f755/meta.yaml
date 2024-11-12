@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/882942637139866631/72be30e6409b478c9891ff095035f755/artifacts
+end_time: 1731356825383
+entry_point_name: ''
+experiment_id: '882942637139866631'
+lifecycle_stage: active
+run_id: 72be30e6409b478c9891ff095035f755
+run_name: exultant-slug-131
+run_uuid: 72be30e6409b478c9891ff095035f755
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731355911099
+status: 3
+tags: []
+user_id: kehat

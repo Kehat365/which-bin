@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/261048915093436133/9fa6dedd559540a7a7970573a8f5a3a8/artifacts
+end_time: 1731329654012
+entry_point_name: ''
+experiment_id: '261048915093436133'
+lifecycle_stage: active
+run_id: 9fa6dedd559540a7a7970573a8f5a3a8
+run_name: aged-toad-460
+run_uuid: 9fa6dedd559540a7a7970573a8f5a3a8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731328617418
+status: 3
+tags: []
+user_id: kehat

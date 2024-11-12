@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/288200518121568785/5b9bfa01e3f540fd9b08004f29ce1c77/artifacts
+end_time: 1731363828213
+entry_point_name: ''
+experiment_id: '288200518121568785'
+lifecycle_stage: active
+run_id: 5b9bfa01e3f540fd9b08004f29ce1c77
+run_name: smiling-colt-60
+run_uuid: 5b9bfa01e3f540fd9b08004f29ce1c77
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731362628021
+status: 3
+tags: []
+user_id: kehat

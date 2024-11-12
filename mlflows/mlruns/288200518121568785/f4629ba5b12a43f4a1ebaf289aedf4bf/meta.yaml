@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/288200518121568785/f4629ba5b12a43f4a1ebaf289aedf4bf/artifacts
+end_time: 1731378552748
+entry_point_name: ''
+experiment_id: '288200518121568785'
+lifecycle_stage: active
+run_id: f4629ba5b12a43f4a1ebaf289aedf4bf
+run_name: clumsy-asp-1000
+run_uuid: f4629ba5b12a43f4a1ebaf289aedf4bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731376736245
+status: 3
+tags: []
+user_id: kehat

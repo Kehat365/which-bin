@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/288200518121568785/eb9af85f8ed74f58b7941229c8041cfa/artifacts
+end_time: 1731382387753
+entry_point_name: ''
+experiment_id: '288200518121568785'
+lifecycle_stage: active
+run_id: eb9af85f8ed74f58b7941229c8041cfa
+run_name: skillful-eel-829
+run_uuid: eb9af85f8ed74f58b7941229c8041cfa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731380459095
+status: 3
+tags: []
+user_id: kehat

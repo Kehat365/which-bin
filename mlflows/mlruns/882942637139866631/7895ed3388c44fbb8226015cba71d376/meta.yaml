@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/882942637139866631/7895ed3388c44fbb8226015cba71d376/artifacts
+end_time: 1731354985665
+entry_point_name: ''
+experiment_id: '882942637139866631'
+lifecycle_stage: active
+run_id: 7895ed3388c44fbb8226015cba71d376
+run_name: clean-sloth-869
+run_uuid: 7895ed3388c44fbb8226015cba71d376
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731353715302
+status: 3
+tags: []
+user_id: kehat

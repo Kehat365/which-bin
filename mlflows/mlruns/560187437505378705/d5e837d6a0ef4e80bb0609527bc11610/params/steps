@@ -1,0 +1,1 @@
+[('resize', FunctionTransformer(func=<function resize_images at 0x0000022D10294AE0>)), ('flatten', FunctionTransformer(func=<function <lambda> at 0x0000022D0E9F5D00>)), ('classifier', RandomForestClassifier(max_depth=10, n_jobs=-1, random_state=42))]

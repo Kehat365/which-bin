@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/261048915093436133/fa808fa989f54865abd4ea25662657ff/artifacts
+end_time: 1731335922275
+entry_point_name: ''
+experiment_id: '261048915093436133'
+lifecycle_stage: active
+run_id: fa808fa989f54865abd4ea25662657ff
+run_name: unequaled-moose-803
+run_uuid: fa808fa989f54865abd4ea25662657ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731334278200
+status: 3
+tags: []
+user_id: kehat

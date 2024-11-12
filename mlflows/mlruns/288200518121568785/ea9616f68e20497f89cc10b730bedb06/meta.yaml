@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/288200518121568785/ea9616f68e20497f89cc10b730bedb06/artifacts
+end_time: 1731369254571
+entry_point_name: ''
+experiment_id: '288200518121568785'
+lifecycle_stage: active
+run_id: ea9616f68e20497f89cc10b730bedb06
+run_name: tasteful-newt-298
+run_uuid: ea9616f68e20497f89cc10b730bedb06
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731367377025
+status: 3
+tags: []
+user_id: kehat

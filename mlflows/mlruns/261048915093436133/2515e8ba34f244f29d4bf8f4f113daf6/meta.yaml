@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/261048915093436133/2515e8ba34f244f29d4bf8f4f113daf6/artifacts
+end_time: 1731332575244
+entry_point_name: ''
+experiment_id: '261048915093436133'
+lifecycle_stage: active
+run_id: 2515e8ba34f244f29d4bf8f4f113daf6
+run_name: charming-wolf-493
+run_uuid: 2515e8ba34f244f29d4bf8f4f113daf6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731331128410
+status: 3
+tags: []
+user_id: kehat
