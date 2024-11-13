@@ -1,6 +1,7 @@
 # <b>which bin?: Intelligent garbage sorting assistance</b>
 
 <b>which bin?</b> is a web application designed to assist users in determining the correct disposal bin for their garbage based on local sorting guidelines. The app leverages machine learning to classify garbage images into one of several categories (plastic, glass, metal, clothes etc.) and provides tailored disposal instructions according to the user's selected city. This project started as the final project for the ML for business 2 course given by Mathieu Soul at Albert School Paris.
+In France, the recycling system faces significant challenges due to contamination from improper waste sorting. Approximately 30% of recyclable materials are contaminated, leading to increased landfill use and higher garbage management costs for municipalities. Local variations in garbage sorting rules might create confusion among citizens, contributing to contamination. This lack of standardization results in contamination of recyclable materials, reducing the efficiency of recycling programs. The key stakeholders impacted by these challenges include citizens, municipalities, and waste management services, each of whom play a role in ensuring effective waste disposal and recycling. The proposed platform offers personalized guidance on waste sorting, enhancing the accuracy of recycling efforts. With 98% of french citizens having access to recycling systems but only 70-75% sorting waste correctly, the platform aims to bridge this gap with user-friendly, localized sorting instructions.
 
 ## <b>Table of contents</b>
 
@@ -116,11 +117,11 @@ Open a browser and go to http://127.0.0.1:8000 (or http://localhost:8000) to acc
 - Click the "which bin?" button to see where to dispose of your garbage
 
 ## <b>Model training and evaluation</b>
-### Dataset Description
+### Dataset description
 
 The dataset used in this project consists of a collection of images of various types of garbage. The images are categorized into different classes that are: 'battery', 'biological', 'cardboard', 'clothes', 'glass', 'metal', 'paper', 'plastic', 'shoes' and 'trash'. The dataset is structured into folders, each representing a different class of garbage. The images have varying dimensions, modes, and resolutions. In this dataset there are 19407 images. Corrupted and duplicate images were removed from the dataset. Also, to balance the dataset, minority classes were augmented using transformations such as blur, gaussian filter, zoom, rotation, and horizontal flipping.
 
-### Baseline Model
+### Baseline model
 
 The baseline model used in this project is a Random forest. The hyperparameter were set on n_estimators=100 and max_depth=10. There were only two preprocessing steps. The first one was to resize the images to 256x256 pixels, maintaining aspect ratio with padding. The second one was to flatten the images into 1D arrays. We've decide to use accuracy for evaluation because our classes are balanced and we want to know how well the model can predict the correct class. The mean accuracy of the base model on a 5 fold cross validation was 48.56%
 
